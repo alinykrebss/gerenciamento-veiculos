@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa28b6f2-898d-4d69-9f34-5f97c933f34e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gerenciamento_veiculo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/model/Caminhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/model/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/model/Frota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/model/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/model/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unisep/view/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="aa28b6f2-898d-4d69-9f34-5f97c933f34e" name="Changes" comment="comit gestao de veiculos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,11 +73,24 @@
       <workItem from="1728581909047" duration="325000" />
       <workItem from="1728593337074" duration="73000" />
       <workItem from="1728593453906" duration="84000" />
-      <workItem from="1728593670560" duration="1351000" />
+      <workItem from="1728593670560" duration="1687000" />
     </task>
+    <task id="LOCAL-00001" summary="comit gestao de veiculos">
+      <option name="closed" value="true" />
+      <created>1728595295913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728595295913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit gestao de veiculos" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit gestao de veiculos" />
   </component>
 </project>
